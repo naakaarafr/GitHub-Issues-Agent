@@ -30,8 +30,8 @@ The system consists of three main components:
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repository-url>
-   cd github-issues-analysis
+   git clone [<your-repository-url>](https://github.com/naakaarafr/GitHub-Issues-Agent/tree/main)
+   cd GitHub-Issues-Agent
    ```
 
 2. **Install dependencies**
